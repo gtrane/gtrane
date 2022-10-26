@@ -15,9 +15,9 @@
 I utilized Python to code and visualize the 10-steps of the glycolysis cycle. This involved the use of differential equations in chemical reactions and rate constants. 
 ### How to run program
 ```text
-gtrane/
+Glycolysis-Model/
 └── 
-    │── Full Model of Glycolysis.py
+    │── final.py
    
 ```
 ## Mt Vernon Winery
