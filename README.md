@@ -1,9 +1,4 @@
 ### Hi there 👋
-
-<!--
-**gtrane/gtrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 ## Thanks for stopping by :happy: A little about me:
 - 🔭 I’m currently working on my **Master's of Science in Business Analytics** at the Univeristy of Iowa. I will graduate in December 2023. I have a Bachelor's of Science in Biomedical Engineering from the University of Iowa. I enjoy combining my skills in engineering with those in analytics so that I can help find business solutions with data.
 - 🌱 I’m currently learning analytics techniques utilizing Python, SQL Oracle, Tableau, Power BI, and MS Office applications
@@ -11,4 +6,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I have a twin sister, my favorite music genres are indie rock / folk, and I love cats.
 - Favorite quote: "Experience is what happens when you don't get what you want"
--->
