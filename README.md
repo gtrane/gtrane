@@ -22,7 +22,7 @@ gtrane/
 ```
 ## Mt Vernon Winery
 ### Description
-I utilized Tableau to visualize orders, products, and customer data in order to promote the winery and showcase where the company has seen success.
+I utilized Tableau to visualize orders, products, and customer data in order to promote the winery and showcase where the company has seen success. Data was collected from 2019 - 2020.
 ### How to run program
 ```text
 gtrane/
