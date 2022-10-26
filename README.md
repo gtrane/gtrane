@@ -17,10 +17,7 @@ I utilized Python to code and visualize the 10-steps of the glycolysis cycle. Th
 ```text
 Hello_World/
 └── 
-    │── README.md
-    │── pgmname1.R
-    │── filename1.csv
-    │── examples.html
+    │── Full Model of Glycolysis.py
    
 ```
 ## Mt Vernon Winery
