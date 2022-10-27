@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning analytics techniques utilizing Python, SQL Oracle, Tableau, Power BI, and MS Office applications
 - 📫 How to reach me: grace-trane@uiowa.edu, [LinkedIn](https://www.linkedin.com/in/grace-trane/)
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I have a twin sister, my favorite music genres are indie rock / folk, and I love cats.
-- 🐥 Favorite quote: "Experience is what happens when you don't get what you want"
+- ⚡ Fun fact: I have a twin sister, my favorite music genres are indie rock / folk, and I love cats
+
 ## Projects
 - [GLYCOLYSIS CYCLE](#Glycolysis-Cycle)
 - [MT VERNON WINERY](#Mt-Vernon-Winery)
