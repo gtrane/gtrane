@@ -23,7 +23,7 @@ Glycolysis-Model/
 ```
 ## Mt Vernon Winery
 ### Description
-I utilized Tableau to visualize orders, products, and customer data in order to promote the winery, provide updated marketing strategies, and showcase where the company has seen success. Data was collected from 2019 - 2020.
+I utilized Tableau to visualize order, product, and customer data in order to promote the Mt Vernon Winery; I provided updated marketing strategies and showcased where the company has seen success. Data was collected from 2019 - 2020.
 ### Relevant Project Files
 ```text
 Mt-Vernon_Winery-Visualizations/
@@ -35,7 +35,7 @@ Mt-Vernon_Winery-Visualizations/
 ```
 ## AirBnb
 ### Description
-I am currently working on a project to find the most profitable and safe neighboorhoods in Chicago to begin an AirBnb
+I am currently working on a project to find the most profitable and safe neighboorhoods in Chicago to begin an AirBnb. This will involve the use of Python and Jupyter Notebook to scrape, clean, analyze, and visualize relevant AirBnb data.
 ### Relevant Project Files
 ```text
 gtrane/
