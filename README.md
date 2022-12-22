@@ -4,7 +4,7 @@
 - 🌱 My skillset in analytics includes Python, SQL (Oracle), Tableau, Power BI, and MS Office applications
 - 📫 How to reach me: grace-trane@uiowa.edu, [LinkedIn](https://www.linkedin.com/in/grace-trane/)
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I have a twin sister, my favorite music genres are indie rock / folk, and I love cats
+- ⚡ Fun fact: I have a twin sister, my favorite music genres are indie rock and americana, and I love going to musical fetsivals and concerts
 
 ## Projects
 - [GLYCOLYSIS CYCLE](#Glycolysis-Cycle)
